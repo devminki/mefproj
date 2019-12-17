@@ -1,0 +1,6 @@
+E:\TestSample\MovieMefTest\MovieOriginalExport\obj\Debug\MovieOriginalExport.csprojAssemblyReference.cache
+E:\TestSample\MovieMefTest\MovieOriginalExport\obj\Debug\MovieOriginalExport.csproj.CoreCompileInputs.cache
+E:\TestSample\MovieMefTest\MovieOriginalExport\bin\Debug\MovieOriginalExport.dll
+E:\TestSample\MovieMefTest\MovieOriginalExport\bin\Debug\MovieOriginalExport.pdb
+E:\TestSample\MovieMefTest\MovieOriginalExport\obj\Debug\MovieOriginalExport.dll
+E:\TestSample\MovieMefTest\MovieOriginalExport\obj\Debug\MovieOriginalExport.pdb

@@ -1,0 +1,10 @@
+E:\TestSample\MovieMefTest\MovieMEFImport\bin\Debug\MovieMEFImport.exe.config
+E:\TestSample\MovieMefTest\MovieMEFImport\bin\Debug\MovieMEFImport.exe
+E:\TestSample\MovieMefTest\MovieMEFImport\bin\Debug\MovieMEFImport.pdb
+E:\TestSample\MovieMefTest\MovieMEFImport\bin\Debug\MovieMEFExport.dll
+E:\TestSample\MovieMefTest\MovieMEFImport\bin\Debug\MovieMEFExport.pdb
+E:\TestSample\MovieMefTest\MovieMEFImport\obj\Debug\MovieMEFImport.csprojAssemblyReference.cache
+E:\TestSample\MovieMefTest\MovieMEFImport\obj\Debug\MovieMEFImport.csproj.CoreCompileInputs.cache
+E:\TestSample\MovieMefTest\MovieMEFImport\obj\Debug\MovieMEFImport.csproj.CopyComplete
+E:\TestSample\MovieMefTest\MovieMEFImport\obj\Debug\MovieMEFImport.exe
+E:\TestSample\MovieMefTest\MovieMEFImport\obj\Debug\MovieMEFImport.pdb
