@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieMEFExport", "MovieMEFE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieMEFImport", "MovieMEFImport\MovieMEFImport.csproj", "{0E7995C1-A0D0-4D3F-A5B9-EF1A38AFB100}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movie_MVVM_MEF_Sample", "Movie_MVVM_MEF_Sample\Movie_MVVM_MEF_Sample.csproj", "{AD8E0195-F768-4659-BF09-0683331848F7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{0E7995C1-A0D0-4D3F-A5B9-EF1A38AFB100}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E7995C1-A0D0-4D3F-A5B9-EF1A38AFB100}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E7995C1-A0D0-4D3F-A5B9-EF1A38AFB100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8E0195-F768-4659-BF09-0683331848F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8E0195-F768-4659-BF09-0683331848F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8E0195-F768-4659-BF09-0683331848F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8E0195-F768-4659-BF09-0683331848F7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
